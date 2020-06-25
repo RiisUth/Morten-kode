@@ -1,0 +1,12 @@
+C:\Users\Uth\Desktop\fandom\fandomGitt\code\fandomMVC\Testlayer\bin\Debug\netstandard2.0\Testlayer.deps.json
+C:\Users\Uth\Desktop\fandom\fandomGitt\code\fandomMVC\Testlayer\bin\Debug\netstandard2.0\Testlayer.dll
+C:\Users\Uth\Desktop\fandom\fandomGitt\code\fandomMVC\Testlayer\obj\Debug\netstandard2.0\Testlayer.AssemblyInfoInputs.cache
+C:\Users\Uth\Desktop\fandom\fandomGitt\code\fandomMVC\Testlayer\obj\Debug\netstandard2.0\Testlayer.AssemblyInfo.cs
+C:\Users\Uth\Desktop\fandom\fandomGitt\code\fandomMVC\Testlayer\obj\Debug\netstandard2.0\Testlayer.csprojAssemblyReference.cache
+C:\Users\Uth\Desktop\fandom\fandomGitt\code\fandomMVC\Testlayer\bin\Debug\netstandard2.0\Testlayer.pdb
+C:\Users\Uth\Desktop\fandom\fandomGitt\code\fandomMVC\Testlayer\bin\Debug\netstandard2.0\DBlayerrr.dll
+C:\Users\Uth\Desktop\fandom\fandomGitt\code\fandomMVC\Testlayer\bin\Debug\netstandard2.0\DBlayerrr.pdb
+C:\Users\Uth\Desktop\fandom\fandomGitt\code\fandomMVC\Testlayer\bin\Debug\netstandard2.0\DBlayerrr.dll.config
+C:\Users\Uth\Desktop\fandom\fandomGitt\code\fandomMVC\Testlayer\obj\Debug\netstandard2.0\Testlayer.csproj.CopyComplete
+C:\Users\Uth\Desktop\fandom\fandomGitt\code\fandomMVC\Testlayer\obj\Debug\netstandard2.0\Testlayer.dll
+C:\Users\Uth\Desktop\fandom\fandomGitt\code\fandomMVC\Testlayer\obj\Debug\netstandard2.0\Testlayer.pdb

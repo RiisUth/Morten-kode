@@ -1,0 +1,5 @@
+C:\Users\Uth\Desktop\fandom\fandomGitt\code\fandomMVC\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\Uth\Desktop\fandom\fandomGitt\code\fandomMVC\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Uth\Desktop\fandom\fandomGitt\code\fandomMVC\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\Uth\Desktop\fandom\fandomGitt\code\fandomMVC\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\Uth\Desktop\fandom\fandomGitt\code\fandomMVC\Exceptions\obj\Debug\Exceptions.pdb
